@@ -87,7 +87,7 @@
               "pfk": false,
               "widthName": 63.77604675292969,
               "widthComment": 60,
-              "widthDataType": 90.02308654785156,
+              "widthDataType": 90.5430908203125,
               "widthDefault": 60
             },
             "id": "1a8606dd-a50d-434f-830d-c4a589a7c730"
@@ -108,18 +108,18 @@
               "pk": false,
               "fk": false,
               "pfk": false,
-              "widthName": 60.92903137207031,
+              "widthName": 61.18904113769531,
               "widthComment": 60,
-              "widthDataType": 90.02308654785156,
+              "widthDataType": 90.5430908203125,
               "widthDefault": 60
             },
             "id": "4af48d80-dc1f-4012-bfe2-9e4a8e0eb7bd"
           }
         ],
         "ui": {
-          "active": false,
-          "left": 207.5001,
-          "top": 101.6667,
+          "active": true,
+          "left": 116.0653,
+          "top": 106.2963,
           "zIndex": 2,
           "widthName": 60,
           "widthComment": 60
